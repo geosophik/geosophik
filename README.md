@@ -12,12 +12,6 @@ Geosophik is a geospatial technology hub based in Tripoli, Greece, turning geosp
 
 Environmental protection, sustainable development, climate resilience, agricultural innovation, cultural heritage preservation, and rural revitalization.
 
-## Offerings
-
-- A **Geoportal** platform with open datasets and interactive maps.
-- Active environmental monitoring and cultural heritage mapping projects.
-- Educational programs for building geospatial skills.
-
 ## Values
 
 All work is released open-source. Geosophik builds through collaborative partnerships, prioritizes measurable impact, and works to democratize access to geospatial knowledge — operating from Greece with European and international partnerships.
