@@ -1,4 +1,4 @@
-# Geosophik
+# geosophik
 
 Geosophik is a geospatial technology hub based in Tripoli, Greece, turning geospatial data into practical solutions for environmental protection, sustainable development, and community resilience.
 
